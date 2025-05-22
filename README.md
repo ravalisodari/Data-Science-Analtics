@@ -1,1 +1,1 @@
-# Data-Science-Analtics
+# Data-Science-Analytics
